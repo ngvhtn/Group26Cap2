@@ -19,7 +19,6 @@ This section describes the scope and main functions of the project.
 
 | No. | Name | Role |
 |---|---|---|
-| 1 | Member 1 | Project Manager |
-| 2 | Member 2 | Developer |
-| 3 | Member 3 | Database Designer |
-| 4 | Member 4 | Tester |
+| 1 | Hoài Tiên | Thành viên |
+| 2 | Kim Hân | Thành viên |
+| 3 | Quỳnh Nhi | Thành viên |
